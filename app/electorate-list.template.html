@@ -1,3 +1,4 @@
+
 <ul>
   <li ng-repeat="electorate in $ctrl.electorates | filter:$ctrl.query | orderBy:$ctrl.orderProp">
     <p>{{electorate.electorate}}</p>
@@ -5,7 +6,6 @@
     <p>{{electorate.party}} </p>
   </li>
 </ul>
-
 <div> Search: <input ng-model="$ctrl.query"/> </div>
 <p>
   Sort by:

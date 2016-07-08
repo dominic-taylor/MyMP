@@ -1,30 +1,13 @@
 angular.
   module('electorateList').
   component('electorateList', {
-  templateUrl: '../app/electorate-list.template.html',
-  controller: function ElectorateListController(){
-      this.electorates = [
-        {
-          electorate: 'Big City',
-          mp: 'Jo Bloggs',
-          party: 'Bloggs Party'
-        },
-        {
-          electorate: 'Small Town',
-          mp: 'Chrispy',
-          party: 'First Party'
-        },
-        {
-          electorate: 'Coastville',
-          mp: 'Mr M',
-          party: 'Independance NZ'
-        },
-        {
-          electorate: 'Tiny Island',
-          mp: 'Julie Mist',
-          party: 'First Party'
+    templateUrl: 'electorate-list.template.html',
+    controller: function ElectorateListController($http){
+          var self = this;
+          self.orderProp = 'party';
+
+          $http.get('electorates.json').then(function(response){
+            self.electorates = response.data;
+          });
         }
-      ];
-      this.orderProp = 'party';
-    }
   });
