@@ -13,7 +13,18 @@ angular.
           electorate: 'Small Town',
           mp: 'Chrispy',
           party: 'First Party'
+        },
+        {
+          electorate: 'Coastville',
+          mp: 'Mr M',
+          party: 'Independance NZ'
+        },
+        {
+          electorate: 'Tiny Island',
+          mp: 'Julie Mist',
+          party: 'First Party'
         }
       ];
+      this.orderProp = 'party';
     }
   });
