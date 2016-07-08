@@ -1,15 +1,7 @@
 angular.
-  module('mpApp').
+  module('electorateList').
   component('electorateList', {
-  template:
-  '<ul>' +
-    '<li ng-repeat="electorate in $ctrl.electorates">' +
-      '<p>{{electorate.electorate}}</p>' +
-      '<p>{{electorate.mp}} </p>' +
-      '<p>{{electorate.party}} </p>' +
-      '<p>Number of MPS: {{electorates.length}}</p>'+
-    '</li>' +
-  '</ul>',
+  templateUrl: '../app/electorate-list.template.html',
   controller: function ElectorateListController(){
       this.electorates = [
         {
