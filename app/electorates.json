@@ -2,7 +2,8 @@
  {
    "electorate": "Auckland Central",
    "mp": "Nikki Kaye",
-   "party": "National Party"
+   "party": "National Party",
+   "contact": ["Email: nikki@mp.com", "Office: 123 st"]
  },
  {
    "electorate": "Bay of Plenty",

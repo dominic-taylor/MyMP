@@ -1,10 +1,11 @@
 angular.
   module('electorateList').
   component('electorateList', {
-    templateUrl: 'electorate-list.template.html',
+    templateUrl: 'electorate-list/electorate-list.template.html',
     controller: function ElectorateListController($http){
           var self = this;
           self.orderProp = 'party';
+
 
           $http.get('electorates.json').then(function(response){
             self.electorates = response.data;
