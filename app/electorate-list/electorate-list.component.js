@@ -10,5 +10,5 @@ angular.
           $http.get('electorates.json').then(function(response){
             self.electorates = response.data;
           });
-        }
+        }    
   });
