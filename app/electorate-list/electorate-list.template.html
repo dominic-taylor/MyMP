@@ -12,7 +12,7 @@
       </p>
     </div>
    <ul>
-      <li ng-repeat="electorate in $ctrl.electorates | filter:$ctrl.query | orderBy:$ctrl.orderProp">
+      <li ng-repeat="electorate in $ctrl.electorates  | filter:$ctrl.query | orderBy:$ctrl.orderProp| limitTo:$ctrl.quantity ">
         <p>{{electorate.electorate}}</p>
         <p>{{electorate.mp}} </p>
         <p>{{electorate.party}} </p>
