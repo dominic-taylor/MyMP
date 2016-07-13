@@ -1,29 +1,738 @@
-[
- {
+[ {
    "electorate": "Auckland Central",
    "mp": "Nikki Kaye",
    "party": "National Party",
    "contact": ["Email: nikki@mp.com", "Office: 123 st"]
  },
  {
-   "electorate": "Bay of Plenty",
-   "mp": "Todd Muller",
-   "party": "National Party"
+   "electorate": "Selwyn",
+   "mp": "Amy Adams",
+   "party": "National Party",
+   "contact": ["Amy.Adams@parliament.govt.nz"]
  },
  {
-   "electorate": "Botany",
-   "mp": "Jami-Lee Ross",
-   "party": "First Party"
- },
- {
-   "electorate": "Christchurch Central",
-   "mp": "Nicky Wagner",
-   "party": "National Party"
- },
- {
-   "electorate": "Christchurch East",
-   "mp": "Poto Williams",
-   "party": "Labour Party"
- }
 
+
+   "electorate": "List",
+   "mp": "Jacinda Ardern",
+   "party": "Labour Party",
+   "contact": ["Jacinda.Ardern@parliament.govt.nz"]
+ },
+ {
+   "electorate": "List",
+   "mp": "Kanwaljit Singh Bakshi",
+   "party": "National Party",
+   "contact": ["KanwaljitSingh.Bakshi@parliament.govt.nz"]
+ },
+ {
+
+   "electorate": "List",
+   "mp": "Darroch Ball",
+   "party": "NZ First",
+   "contact": ["Darroch.Ball@parliament.govt.nz"]
+ },
+ {
+
+   "electorate": "Clutha-Southland",
+   "mp": "Todd Barclay",
+   "party": "National Party",
+   "contact": ["Todd.Barclay@parliament.govt.nz"]
+ },
+ {
+
+   "electorate": "Maggie Barry",
+   "mp": "North Shore",
+   "party": "National Party ",
+   "contact": ["Maggie.Barry@parliament.govt.nz"]
+ },
+ {
+   "electorate": "Hunua",
+   "mp": "Andrew Bayly",
+   "party": "National Party ",
+   "contact": ["Andrew.Bayly@parliament.govt.nz"]
+ },
+ {
+
+   "electorate": "Hamilton East ",
+   "mp": "David Bennett",
+   "party": "National Party",
+   "contact": ["David.Bennett@parliament.govt.nz"]
+ },
+ {
+
+   "electorate": "Upper Harbour ",
+   "mp": "Paula Bennett",
+   "party": "National Party",
+   "contact": ["Paula.Bennett@parliament.govt.nz"]
+ },
+ {
+   "electorate": "List",
+   "mp": "Mahesh Bindra",
+   "party": "NZ First ",
+   "contact": ["Mahesh.Bindra@parliament.govt.nz"]
+ },
+ {
+
+   "electorate": "List",
+   "mp": "Christopher Bishop",
+   "party": "National Party  ",
+   "contact": ["Christopher.Bishop@parliament.govt.nz"]
+ },
+ {
+   "electorate": "List",
+   "mp": "Ria Bond",
+   "party": "NZ First  ",
+   "contact": ["Ria.Bond@parliament.govt.nz"]
+ },
+ { "electorate": "Whanganui",
+   "mp": "Chester Borrows",
+   "party": "National Party  ",
+   "contact": ["Chester.Borrows@parliament.govt.nz"]
+ },
+ {
+   "electorate": "Tauranga",
+   "mp": "Simon Bridges",
+   "party": "National Party",
+   "contact": ["Simon.Bridges@parliament.govt.nz"]
+ },
+ {
+   "electorate": "List",
+   "mp": "Steffan Browning",
+   "party": "Green Party",
+   "contact": ["Steffan.Browning@parliament.govt.nz"]
+ },
+ {  "electorate": "Ilam",
+    "mp": "Gerry Brownlee",
+    "party": "National Party ",
+    "contact": ["Gerry.Brownlee@parliament.govt.nz"]
+  },
+  { "electorate": "List",
+     "mp": "David Carter",
+     "party": "National Party",
+     "contact": ["David.Carter@parliament.govt.nz"]
+   },
+   {  "electorate": "Dunedin North",
+      "mp": "David Clark ",
+      "party": "Labour Party",
+      "contact": ["David.Clark@parliament.govt.nz"]
+    },
+    {
+      "electorate": "List",
+       "mp": "David Clendon",
+       "party": "Green Party" ,
+       "contact": ["david.clendon@parliament.govt.nz"]
+     },
+ {
+  "electorate": "Jonathan Coleman",
+  "mp": "Northcote",
+  "party": "National Party",
+  "contact": ["Jonathan.Coleman@parliament.govt.nz"]
+  },
+  {
+     "electorate": "Papakura",
+     "mp": "Judith Collins",
+     "party": "National Party",
+     "contact": ["Judith.Collins@parliament.govt.nz"]
+   },
+   {  "electorate": "List",
+      "mp": "Clayton Cosgrove",
+      "party": "Labour Party",
+      "contact": ["Clayton.Cosgrove@parliament.govt.nz"]
+    },
+    {
+       "electorate": "New Lynn",
+       "mp": "David Cunliffe",
+       "party": "Labour Party",
+       "contact": ["david.cunliffe@parliament.govt.nz"]
+     },
+     {
+        "electorate": "Dunedin South",
+        "mp": "Clare Curran",
+        "party": "Labour Party",
+        "contact": ["Clare.Curran@parliament.govt.nz"]
+      },
+      {
+         "electorate": "List",
+         "mp": "Marama Davidson",
+         "party": "Green Party",
+         "contact": ["Marama.Davidson@parliament.govt.nz"]
+       },
+       {
+          "electorate": "Te Tai Tokerau",
+          "mp": "Kelvin Davis",
+          "party": "Labour Party",
+          "contact": ["Kelvin.Davis@parliament.govt.nz"]
+        },
+        {
+           "electorate": "Waitaki",
+           "mp": "Jacqui Dean",
+           "party": "National Party",
+           "contact": ["Jacqui.Dean@parliament.govt.nz"]
+         },
+         {
+            "electorate": "List",
+            "mp": "Catherine Delahunty",
+            "party": "Green Party",
+            "contact": ["Catherine.Delahunty@parliament.govt.nz"]
+          },
+          {
+             "electorate": "Waimakariri",
+             "mp": "Matthew Doocey",
+             "party": "National Party",
+             "contact": ["matthew.doocey@parliament.govt.nz"]
+           },
+           {
+              "electorate": "Invercargill",
+              "mp": "Sarah Dowie",
+              "party": "National Party",
+              "contact": ["Sarah.Dowie@parliament.govt.nz"]
+            },
+            {
+               "electorate": "Ohariu",
+               "mp": "Peter Dunne",
+               "party": "United Future",
+               "contact": ["Peter.Dunne@parliament.govt.nz"]
+             },
+             {
+                "electorate": "Port Hills",
+                "mp": "Ruth Dyson",
+                "party": "Labour Party",
+                "contact": ["Ruth.Dyson@parliament.govt.nz"]
+              },
+              {
+                 "electorate": "List",
+                 "mp": "Bill English",
+                 "party": "National Party",
+                 "contact": ["bill.english@parliament.govt.nz"]
+               },
+               {
+                  "electorate": "Mana",
+                  "mp": "Kris Faafoi",
+                  "party": "Labour Party",
+                  "contact": ["kris.faafoi@parliament.govt.nz"]
+                },
+                {
+                   "electorate": "List",
+                   "mp": "Christopher Finlayson",
+                   "party": "National Party",
+                   "contact": ["Christopher.Finlayson@parliament.govt.nz"]
+                 },
+                 {
+                    "electorate": "Waiariki",
+                    "mp": "Te Ururoa Flavell",
+                    "party": "Maori Party",
+                    "contact": ["teururoa.flavell@parliament.govt.nz"]
+                  },
+                  {
+                     "electorate": "Tukituki",
+                     "mp": "Craig Foss",
+                     "party": "National Party",
+                     "contact": ["Craig.Foss@parliament.govt.nz"]
+                   },
+                   {
+                    "electorate": "List",
+                    "mp": "Paul Foster-Bell",
+                    "party": "National Party",
+                    "contact": ["Paul.Foster-Bell@parliament.govt.nz"]
+                    },
+
+{
+   "electorate": "List",
+   "mp": "Marama Fox",
+   "party": "Maori Party",
+   "contact": ["Marama.Fox@parliament.govt.nz"]
+ },
+ {
+    "electorate": "List",
+    "mp": "Julie Anne Genter",
+    "party": "Green Party",
+    "contact": ["JulieAnne.Genter@parliament.govt.nz"]
+  },
+  {
+     "electorate": "Mt Roskill ",
+     "mp": "Phil Goff",
+     "party": "Labour Party",
+     "contact": ["Phil.Goff@parliament.govt.nz"]
+   },
+   {
+      "electorate": "List",
+      "mp": "Paul Goldsmith",
+      "party": "National Party",
+      "contact": ["Paul.Goldsmith@parliament.govt.nz"]
+    },
+    {
+       "electorate": "Rangitata",
+       "mp": "Jo Goodhew",
+       "party": "National Party",
+       "contact": ["Jo.Goodhew@parliament.govt.nz"]
+     },
+     {
+        "electorate": "List",
+        "mp": "Kennedy Graham",
+        "party": "Green Party",
+        "contact": ["Kennedy.Graham@parliament.govt.nz"]
+      },
+  {
+     "electorate": "Otaki",
+     "mp": "Nathan Guy",
+     "party": "National Party ",
+     "contact": ["Nathan.Guy@parliament.govt.nz"]
+   },
+   {
+      "electorate": "List",
+      "mp": "Kevin Hague",
+      "party": "Green Party",
+      "contact": ["Kevin.Hague@parliament.govt.nz"]
+    },
+    {
+       "electorate": "List",
+       "mp": "Joanne Hayes",
+       "party": "National Party",
+       "contact": ["Joanne.Hayes@parliament.govt.nz"]
+     },
+     {
+        "electorate": "Tamaki Makaurau",
+        "mp": "Peeni Henare",
+        "party": "Labour Party",
+        "contact": ["Peeni.Henare@parliament.govt.nz"]
+      },
+{
+"electorate": "Rimutaka",
+"mp": "Chris Hipkins",
+"party": "Labour Party ",
+"contact": ["Chris.Hipkins@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Brett Hudson",
+"party": "National Party",
+"contact": ["Brett.Hudson@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Gareth Hughes",
+"party": "Green Party ",
+"contact": ["gareth.hughes@parliament.govt.nz"]
+},
+
+{
+"electorate": "List",
+"mp": "Steven Joyce",
+"party": "National Party",
+"contact": ["Steven.Joyce@parliament.govt.nz"]
+},
+{
+"electorate": "Auckland Central",
+"mp": "Nikki Kaye",
+"party": "National Party",
+"contact": ["Nikki.Kaye@parliament.govt.nz"]
+},
+{
+"electorate": "Helensville",
+"mp": "John Key",
+"party": "National Party",
+"contact": ["john.key@parliament.govt.nz"]
+},
+{
+"electorate": "Rongotai",
+"mp": "Annette King",
+"party": "Labour Party",
+"contact": ["Annette.King@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Nuk Korako",
+"party": "National Party",
+"contact": ["Nuk.Korako@parliament.govt.nz"]
+},
+{
+"electorate": "Taranaki-King Country",
+"mp": "Barbara Kuriger",
+"party": "National Party",
+"contact": ["Barbara.Kuriger@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Melissa Lee",
+"party": "National Party ",
+"contact": ["Melissa.Lee@parliament.govt.nz"]
+},
+{
+"electorate": "Palmerston North",
+"mp": "Iain Lees-Galloway",
+"party": "Labour Party ",
+"contact": ["Iain.Lees-Galloway@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Andrew Little",
+"party": "Labour Party",
+"contact": ["Andrew.Little@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Jan Logie",
+"party": "Green Party",
+"contact": ["Jan.Logie@parliament.govt.nz"]
+},
+{
+"electorate": "Maungakiekie",
+"mp": "Peseta Sam Lotu-Iiga",
+"party": "National Party",
+"contact": ["peseta.sam.lotu-iiga@parliament.govt.nz"]
+},
+{
+"electorate": "Hamilton West",
+"mp": "Tim Macindoe",
+"party": "National Party",
+"contact": ["Tim.Macindoe@parliament.govt.nz"]
+},
+{
+"electorate": "Hauraki-Waikato",
+"mp": "Nanaia Mahuta",
+"party": "Labour Party",
+"contact": ["Nanaia.Mahuta@parliament.govt.nz"]
+},
+{
+"electorate": "Hutt South",
+"mp": "Trevor Mallard",
+"party": "Labour Party",
+"contact": ["trevor.mallard@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Ron Mark",
+"party": "NZ First",
+"contact": ["Ron.Mark@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Tracey Martin",
+"party": "NZ First",
+"contact": ["Tracey.Martin@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Mojo Mathers",
+"party": "Green Party",
+"contact": ["Mojo.Mathers@parliament.govt.nz"]
+},
+{
+"electorate": "Rotorua",
+"mp": "Todd McClay",
+"party": "National Party",
+"contact": ["Todd.McClay@parliament.govt.nz"]
+},
+{
+"electorate": "East Coast Bays",
+"mp": "Murray McCully",
+"party": "National Party",
+"contact": ["Murray.McCully@parliament.govt.nz"]
+},
+{
+"electorate": "Rangitikei",
+"mp": "Ian McKelvie",
+"party": "National Party",
+"contact": ["Ian.Mckelvie@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Clayton Mitchell",
+"party": "NZ First",
+"contact": ["Clayton.Mitchell@parliament.govt.nz"]
+},
+{
+"electorate": "Rodney",
+"mp": "Mark Mitchell",
+"party": "National Party",
+"contact": ["Mark.Mitchell@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Sue Moroney",
+"party": "Labour Party",
+"contact": ["Sue.Moroney@parliament.govt.nz"]
+},
+{
+"electorate": "Bay of Plenty",
+"mp": "Todd Muller",
+"party": "National Party",
+"contact": ["Todd.Muller@parliament.govt.nz"]
+},
+{
+"electorate": "Napier",
+"mp": "Stuart Nash",
+"party": "Labour Party",
+"contact": ["Stuart.Nash@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Jonathan Naylor",
+"party": "National Party",
+"contact": ["Jonathan.Naylor@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Alfred Ngaro",
+"party": "National Party",
+"contact": ["Alfred.Ngaro@parliament.govt.nz"]
+},
+{
+"electorate": "West Coast-Tasman",
+"mp": "Damien O'Connor",
+"party": "Labour Party",
+"contact": ["Damien.O'Connor@parliament.govt.nz"]
+},
+{
+"electorate": "Tamaki",
+"mp": "Simon O'Connor",
+"party": "National Party",
+"contact": ["simon.oconnor@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Denis O'Rourke",
+"party": "NZ First",
+"contact": ["Denis.O'Rourke@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Pita Paraone",
+"party": "NZ First",
+"contact": ["Pita.Paraone@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Hekia Parata",
+"party": "National Party",
+"contact": ["Hekia.Parata@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "David Parker",
+"party": "Labour Party",
+"contact": ["David.Parker@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Parmjeet Parmar",
+"party": "National Party",
+"contact": ["Parmjeet.Parmar@parliament.govt.nz"]
+},
+{
+"electorate": "Northland",
+"mp": "Winston Peters",
+"party": "NZ First",
+"contact": ["Winston.Peters@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Richard Prosser",
+"party": "NZ First",
+"contact": ["Richard.Prosser@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Maureen Pugh",
+"party": "National Party",
+"contact": ["Maureen.Pugh@parliament.govt.nz"]
+},
+{
+"electorate": "Whangarei",
+"mp": "Shane Reti",
+"party": "National Party",
+"contact": ["Shane.Reti@parliament.govt.nz"]
+},
+{
+"electorate": "Wellington Central",
+"mp": "Grant Robertson",
+"party": "Labour Party",
+"contact": ["Grant.Robertson@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Denise Roche",
+"party": "Green Party",
+"contact": ["Denise.Roche@parliament.govt.nz"]
+},
+{
+"electorate": "Botany",
+"mp": "Jami-Lee Ross",
+"party": "National Party",
+"contact": ["Jami-Lee.Ross@parliament.govt.nz"]
+},
+{
+"electorate": "Te Tai Hauauru",
+"mp": "Adrian Rurawhe",
+"party": "Labour Party",
+"contact": ["Adrian.Rurawhe@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Eugenie Sage",
+"party": "Green Party",
+"contact": ["Eugenie.Sage@parliament.govt.nz"]
+},
+{
+"electorate": "Manukau East",
+"mp": "Jenny Salesa",
+"party": "Labour Party",
+"contact": ["Jenny.Salesa@parliament.govt.nz"]
+},
+{
+"electorate": "Wairarapa",
+"mp": "Alastair Scott",
+"party": "National Party",
+"contact": ["Alastair.Scott@parliament.govt.nz"]
+},
+{
+"electorate": "Kelston",
+"mp": "Carmel Sepuloni",
+"party": "Labour Party",
+"contact": ["Carmel.Sepuloni@parliament.govt.nz"]
+},
+{
+"electorate": "Epsom",
+"mp": "David Seymour",
+"party": "ACT New Zealand",
+"contact": ["David.Seymour@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "James Shaw",
+"party": "Green Party",
+"contact": ["James.Shaw@parliament.govt.nz"]
+},
+{
+"electorate": "Mt Albert",
+"mp": "David Shearer",
+"party": "Labour Party",
+"contact": ["david.shearer@parliament.govt.nz"]
+},
+{
+"electorate": "Coromandel",
+"mp": "Scott Simpson",
+"party": "National Party",
+"contact": ["Scott.Simpson@parliament.govt.nz"]
+},
+{
+"electorate": "Mangere",
+"mp": "Su'a William Sio",
+"party": "Labour Party",
+"contact": ["Sua.William.Sio@parliament.govt.nz"]
+},
+{
+"electorate": "Nelson",
+"mp": "Nick Smith",
+"party": "National Party",
+"contact": ["Nick.Smith@parliament.govt.nz"]
+},
+{
+"electorate": "Kaikoura",
+"mp": "Stuart Smith",
+"party": "National Party",
+"contact": ["Stuart.Smith@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Barbara Stewart",
+"party": "NZ First",
+"contact": ["Barbara.Stewart@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Fletcher Tabuteau",
+"party": "NZ First",
+"contact": ["Fletcher.Tabuteau@parliament.govt.nz"]
+},
+{
+"electorate": "Te Tai Tonga",
+"mp": "Rino Tirikatene",
+"party": "Labour Party",
+"contact": ["Rino.Tirikatene@parliament.govt.nz"]
+},
+{
+"electorate": "Waikato",
+"mp": "Lindsay Tisch",
+"party": "National Party ",
+"contact": ["lindsay.tisch@parliament.govt.nz"]
+},
+{
+"electorate": "East Coast",
+"mp": "Anne Tolley",
+"party": "National Party",
+"contact": ["Anne.Tolley@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Metiria Turei",
+"party": "Green Party",
+"contact": ["metiria.turei@parliament.govt.nz"]
+},
+{
+"electorate": "Te Atatu",
+"mp": "Philip Twyford",
+"party": "Labour Party",
+"contact": ["Philip.Twyford@parliament.govt.nz"]
+},
+{
+"electorate": "Taupo",
+"mp": "Louise Upston",
+"party": "National Party",
+"contact": ["Louise.Upston@parliament.govt.nz"]
+},
+{
+"electorate": "Christchurch Central",
+"mp": "Nicky Wagner",
+"party": "National Party",
+"contact": ["Nicky.Wagner@parliament.govt.nz"]
+},
+{
+"electorate": "Manurewa",
+"mp": "Louisa Wall",
+"party": "Labour Party",
+"contact": ["Louisa.Wall@parliament.govt.nz"]
+},
+{
+"electorate": "Ikaroa-Rawhiti",
+"mp": "Meka Whaitiri",
+"party": "Labour Party",
+"contact": ["Meka.Whaitiri@parliament.govt.nz"]
+},
+{
+"electorate": "Christchurch East",
+"mp": "Poto Williams",
+"party": "Labour Party",
+"contact": ["poto.williams@parliament.govt.nz"]
+},
+{
+"electorate": "Pakuranga",
+"mp": "Maurice Williamson",
+"party": "National Party ",
+"contact": ["Maurice.Williamson@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Michael Woodhouse",
+"party": "National Party",
+"contact": ["Michael.Woodhouse@parliament.govt.nz"]
+},
+{
+"electorate": "Wigram",
+"mp": "Megan Woods",
+"party": "Labour Party",
+"contact": ["Megan.Woods@parliament.govt.nz"]
+},
+{
+"electorate": "List",
+"mp": "Jian Yang",
+"party": "National Party",
+"contact": ["Jian.Yang@parliament.govt.nz"]
+},
+{
+"electorate": "New Plymouth",
+"mp": "Jonathan Young",
+"party": "National Party",
+"contact": ["Jonathan.Young@parliament.govt.nz"]
+}
 ]
