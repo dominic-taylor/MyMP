@@ -2,10 +2,12 @@ body {
   display: flex;
   font-size: 20px;
 }
-
-electorate-map {
-  width: 80%;
+li{
+  list-style: none;
 }
-img {
-  width: 80%;
+select {
+  display: block;
+}
+input {
+display: block;
 }

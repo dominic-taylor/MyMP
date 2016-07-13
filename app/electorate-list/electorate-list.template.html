@@ -6,16 +6,17 @@
     <p>
       Sort by:
       <select ng-model="$ctrl.orderProp">
+        <option value="electorate">Electorate</option>
         <option value="party">Party</option>
-        <option value="mp">MP - Alphabetical</option>
+        <option value="mp">Name</option>
       </select>
       </p>
     </div>
    <ul>
       <li ng-repeat="electorate in $ctrl.electorates  | filter:$ctrl.query | orderBy:$ctrl.orderProp| limitTo:$ctrl.quantity ">
-        <p>{{electorate.electorate}}</p>
-        <p>{{electorate.mp}} </p>
-        <p>{{electorate.party}} </p>
-      </li>
+        <p>Electorate: {{electorate.electorate}}</p>
+        <p>MP: {{electorate.mp}} </p>
+        <p>Party: {{electorate.party}} </p>
+      </li><br>
    </ul>
 </div>
