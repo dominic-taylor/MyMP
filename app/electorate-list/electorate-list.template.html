@@ -1,15 +1,14 @@
 <div>
   <div>
-    <p>
-    Search: <input ng-model="$ctrl.query" select-on-click/>
-    </p>
-    <p>
-      Sort by:
-      <select ng-model="$ctrl.orderProp">
-        <option value="electorate">Electorate</option>
-        <option value="party">Party</option>
-        <option value="mp">Name</option>
-      </select>
+      <p>
+      Search: <input ng-model="$ctrl.query"/>
+      </p>
+      <p>
+        Sort by:<select ng-model="$ctrl.orderProp">
+                  <option value="electorate">Electorate</option>
+                  <option value="party">Party</option>
+                  <option value="mp">Name</option>
+                </select>
       </p>
     </div>
    <ul>

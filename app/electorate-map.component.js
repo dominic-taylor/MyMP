@@ -3,6 +3,8 @@ angular.
   component('electorateMap', {
     templateUrl: 'electorate-map.template.html',
     controller: function ElectorateMapController($scope){
-      $scope.path = 'editnzmp.png';
+      // if option is maori path = maori
+      // else path is == general
+      $scope.path = 'GenRoll1042x960.png';
         }
   });

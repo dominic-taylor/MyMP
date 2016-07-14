@@ -4,10 +4,21 @@ body {
 }
 li{
   list-style: none;
+  margin: 0 0 100px 0;
+  padding: 5px;
+  border: 1px solid red;
 }
 select {
-  display: block;
+  width: 200px;
 }
 input {
-display: block;
+width: 200px;
+}
+img {
+  /*height: auto;*/
+  border: red 1px solid;
+}
+electorate-list {
+  margin: 3%;
+  border: red 1px solid;
 }

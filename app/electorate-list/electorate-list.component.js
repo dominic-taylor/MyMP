@@ -9,6 +9,6 @@ angular.
           var self = this;
           self.orderProp = 'electorate';
           self.quantity = 3;
-          self.query = 'Enter an electorate, MP name or political party.';
+          self.query = 'Enter electorate, MP or party data.';
         }
   });
