@@ -1,13 +1,13 @@
-<div>
+<div class="right-div">
   <div>
       <p>
-      Search: <input ng-model="$ctrl.query"/>
+      Enter an electorate, party or name: <input ng-model="$ctrl.query"/>
       </p>
       <p>
         Sort by:<select ng-model="$ctrl.orderProp">
-                  <option value="electorate">Electorate</option>
-                  <option value="party">Party</option>
-                  <option value="mp">Name</option>
+                      <option value="electorate">Electorate</option>
+                      <option value="party">Party</option>
+                      <option value="mp">Name</option>
                 </select>
       </p>
     </div>
@@ -16,6 +16,6 @@
         <p>Electorate: {{electorate.electorate}}</p>
         <p>MP: {{electorate.mp}} </p>
         <p>Party: {{electorate.party}} </p>
-      </li><br>
+      </li>
    </ul>
 </div>

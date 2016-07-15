@@ -1,24 +1,39 @@
 body {
   display: flex;
   font-size: 20px;
+  background: url(images/Bowen_House_Beehive_Parliament.jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  opacity: 0.93;
 }
 li{
   list-style: none;
-  margin: 0 0 100px 0;
+  margin: 0 10px 40px 0;
   padding: 5px;
-  border: 1px solid red;
 }
-select {
+select, input {
   width: 200px;
+  font-size: 20px;
 }
-input {
-width: 200px;
-}
+
 img {
-  /*height: auto;*/
-  border: red 1px solid;
+  background-color: white;
+  width: 100%;
 }
-electorate-list {
+.right-div {
+  background-color: white;
+  margin: 25px;
+  padding: 15px;
+  border: aliceblue 2px solid;
+  font-size: 20px;
+}
+.left-div {
+  background-color: white;
   margin: 3%;
-  border: red 1px solid;
+  border: aliceblue 2px solid;
+}
+.roll {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
 }

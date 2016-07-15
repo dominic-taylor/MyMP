@@ -1,5 +1,7 @@
-<img class="map" ng-src="{{path}}"></img>
-<select ng-model="path">
-  <option value="GenRoll1042x960.png">General Roll</option>
-  <option value="MaoriRoll1042x960.png">Maori Roll</option>
-</select>
+<div class="left-div">
+  <select class="roll" ng-model="path">
+    <option value="GenRoll1042x960.png">General Roll</option>
+    <option value="MaoriRoll1042x960.png">Maori Roll</option>
+  </select>
+  <img class="map" ng-src="{{path}}"></img>
+</div>
