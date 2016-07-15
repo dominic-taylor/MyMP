@@ -2,9 +2,9 @@
   <div>
       <p>
       Enter an electorate, party or name: <input ng-model="$ctrl.query"/>
-      </p>
+    </p><br>
       <p>
-        Sort by:<select ng-model="$ctrl.orderProp">
+        Sort by: <select ng-model="$ctrl.orderProp">
                       <option value="electorate">Electorate</option>
                       <option value="party">Party</option>
                       <option value="mp">Name</option>
@@ -13,9 +13,9 @@
     </div>
    <ul>
       <li ng-repeat="electorate in $ctrl.electorates  | filter:$ctrl.query | orderBy:$ctrl.orderProp| limitTo:$ctrl.quantity ">
-        <p>Electorate: {{electorate.electorate}}</p>
-        <p>MP: {{electorate.mp}} </p>
-        <p>Party: {{electorate.party}} </p>
+        <p class="label">Electorate: </p>  <p>{{electorate.electorate}}</p><br>
+        <p class="label">MP: </p> <p>{{electorate.mp}} </p><br>
+        <p class="label">Party: </p> <p>{{electorate.party}} </p><br>
       </li>
    </ul>
 </div>
