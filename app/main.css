@@ -5,7 +5,6 @@ body {
   background: url(images/Bowen_House_Beehive_Parliament.jpg) no-repeat center;
   background-size: cover;
   width: 100%;
-  opacity: 0.93;
 }
 li{
   list-style: none;
@@ -27,12 +26,14 @@ img {
   padding: 15px;
   border: aliceblue 2px solid;
   font-size: 20px;
+  opacity: 0.90;
 }
 .left-div {
   text-align: center;
   background-color: white;
   margin: 3%;
   border: aliceblue 2px solid;
+  opacity: 0.90;
 }
 .roll {
   display: block;
